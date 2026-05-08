@@ -14,7 +14,8 @@ I prefer working on projects that solve actual problems or let me figure out how
 * Creating automation tools for desktop and web applications
 
 ## Tech Stack
-* **Languages:** Python, C, C++, SQL, x86 Assembly
-* **Tools:** OpenCV, Pygame, React, Node.js
+* **Languages:** Python, C, C++, x86 Assembly, JavaScript, HTML, CSS
+* **Tools:** OpenCV, Pygame, Roblox Studio, Git
+* **Libraries & Frameworks:** CustomTkinter, Tailwind CSS, PyAutoGUI
 
 [LinkedIn](https://linkedin.com/in/zachary-barry-umbc)
